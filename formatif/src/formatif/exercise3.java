@@ -18,7 +18,7 @@ public class exercise3
 			}
 	
 		{
-				int s[] = {12, 45, 33, 11};
+				
 		}
 
 	}
